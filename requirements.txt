@@ -1,4 +1,4 @@
 streamlit
 requests
-google-genai
+google-generativeai
 python-whois
